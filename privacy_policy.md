@@ -1,9 +1,9 @@
 # Politique de confidentialité
 
-**Nom de l'application :** QUIZ SGFP
+**Nom de l'application :** [Nom de ton jeu]  
 **Dernière mise à jour :** 26 mai 2025
 
-Nous accordons une grande importance à la protection de vos données personnelles. Cette politique de confidentialité a pour but de vous informer sur la manière dont vos données sont collectées, utilisées et protégées lorsque vous utilisez notre application mobile **QUIZ SGFP**.
+Nous accordons une grande importance à la protection de vos données personnelles. Cette politique de confidentialité a pour but de vous informer sur la manière dont vos données sont collectées, utilisées et protégées lorsque vous utilisez notre application mobile **[Nom de ton jeu]**.
 
 ---
 
@@ -64,5 +64,5 @@ Cette politique de confidentialité peut être mise à jour à tout moment. En c
 ## 7. Contact
 
 Pour toute question relative à cette politique de confidentialité, veuillez nous contacter à l'adresse suivante :  
-**ingenieurgc001@gmail.com**
+**Non applicable**
 
